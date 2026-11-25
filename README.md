@@ -1,4 +1,4 @@
-# not-antigravity
+# not-antigravity-t3code-theme
 
 Antigravity-inspired themes for [T3 Code](https://t3.codes), featuring a deep obsidian canvas, a smooth cobalt-navy top-center radial glow, solid dark sidebar, flat rounded composer, and slate-blue inline code and links.
 
